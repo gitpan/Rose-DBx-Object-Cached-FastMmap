@@ -14,7 +14,7 @@ our @ISA = qw(Rose::DB::Object);
 
 use Rose::DB::Object::Constants qw(STATE_IN_DB);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 our $SETTINGS = undef;
 
