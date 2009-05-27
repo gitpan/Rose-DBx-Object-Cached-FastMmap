@@ -1,5 +1,8 @@
 Revision history for Perl module Rose::DBx::Object::Cached::FastMmap
 
+0.03 Wed May 27 01:36:13 EDT 2009
+    - Forcing any Unique Key look-ups that do not have any defined values from being stored in the cache.
+
 0.01 Sat Dec  6 16:48:41 2008
     - original version; created by ExtUtils::ModuleMaker 0.51
 
