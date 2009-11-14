@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Rose-DBx-Object-Cached-FastMmap
-version:             0.03
+version:             0.04
 abstract:            Module abstract (<= 44 characters) goes here
 license:             ~
 author:              
